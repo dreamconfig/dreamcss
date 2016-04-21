@@ -1,6 +1,6 @@
 {
-  "name": "basscss",
-  "version": "8.0.1",
+  "name": "dreamcss",
+  "version": "1.0.0",
   "description": "Low-level CSS toolkit",
   "style": "src/basscss.css",
   "scripts": {
@@ -75,10 +75,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/basscss/basscss.git"
+    "url": "https://github.com/dreamconfig/dreamcss.git"
   },
   "bugs": {
-    "url": "https://github.com/basscss/basscss/issues"
+    "url": "https://github.com/dreamconfig/dreamcss/issues"
   },
-  "homepage": "https://github.com/basscss/basscss"
+  "homepage": "https://github.com/dreamconfig/dreamcss"
 }
