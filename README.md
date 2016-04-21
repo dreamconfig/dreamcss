@@ -1,20 +1,20 @@
-# Basscss
+# Dreamcss
 
-Low-level CSS toolkit <http://basscss.com>
+Low-level CSS toolkit inspired by [Basscss](http://basscss.com)
 
 [![Build Status](https://travis-ci.org/basscss/basscss.svg)](https://travis-ci.org/basscss/basscss)
 [![npm version](https://badge.fury.io/js/basscss.svg)](https://badge.fury.io/js/basscss)
 
 ## Lightning-Fast Modular CSS with No Side Effects
 
-Basscss is a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
+Dreamcss is a lightweight collection of immutable utilities designed for speed, clarity, performance, and scalability.
 
 
 ## Features
 
 ### Code with Confidence
 
-Using clear, humanized naming conventions, Basscss is quick to internalize
+Using clear, humanized naming conventions, Dreamcss is quick to internalize
 and easy to reason about while speeding up development time with more scalable,
 more readable code.
 
@@ -32,13 +32,13 @@ and can be mixed and matched in any number of combinations.
 
 ## Designed for Design
 
-Basscss strikes a balance between consistency and flexibility
+Dreamcss strikes a balance between consistency and flexibility
 to allow for rapid prototyping and quick iterative changes
 when designing in the browser.
 
 ## Responsive by Default
 
-Basscss provides lightweight, performant styles
+Dreamcss provides lightweight, performant styles
 and flexible utilities to design for any device
 and to help reduce boilerplate in stylesheets.
 
@@ -46,8 +46,6 @@ and to help reduce boilerplate in stylesheets.
 
 Modular and customizable typography and layout styles don’t dictate
 what things should look like and play well with other stylesheets and frameworks.
-
-[Read More](http://basscss.com)
 
 ---
 
@@ -58,4 +56,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ---
 
 [MIT license](LICENSE.md)
-
